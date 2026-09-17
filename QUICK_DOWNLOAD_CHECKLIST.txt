@@ -1,0 +1,338 @@
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║                    📥 QUICK ASSETS DOWNLOAD CHECKLIST                   ║
+║                         قائمة تنزيل الـ Assets السريعة                    ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+
+🔗 QUICK LINKS (روابط سريعة):
+════════════════════════════════════════════════════════════════════════════
+
+Sketchfab (3D Models):        https://sketchfab.com
+Mixamo (Animations):          https://www.mixamo.com
+Freesound (Sound Effects):    https://freesound.org
+Zapsplat (Sound Effects):     https://www.zapsplat.com
+Incompetech (Music):          https://incompetech.com/
+Textures Haven (Textures):    https://texturehaven.com
+Poly Haven (All Assets):      https://polyhaven.com
+OpenGameArt (Game Assets):    https://opengameart.org
+
+════════════════════════════════════════════════════════════════════════════
+
+📋 الشخصية الرئيسية (CHARACTER):
+════════════════════════════════════════════════════════════════════════════
+
+PRIORITY: عالية جداً ⭐⭐⭐
+
+1. نموذج الشخصية:
+   ☐ Search: "sci-fi character male rigged" أو "astronaut character"
+   ☐ Website: Sketchfab (البحث: https://sketchfab.com/search?q=sci-fi+character)
+   ☐ Format: FBX أو GLTF
+   ☐ Requirements: Rigged with Skeleton ✓
+   ☐ File Size: < 20 MB
+
+   نصيحة: ابحث عن "Low Poly" للأداء الأفضل
+
+2. الرسوم الحركية:
+   ☐ Website: Mixamo
+   ☐ Steps:
+     1. اذهب إلى: https://www.mixamo.com
+     2. سجل بحساب Adobe (مجاني)
+     3. ابحث عن كل حركة:
+
+     MUST HAVE (إلزامي):
+     ☐ Idle
+     ☐ Walk
+     ☐ Run
+     ☐ Jump
+
+     SHOULD HAVE (مهم):
+     ☐ Attack / Punch
+     ☐ React Hit (أخذ ضرر)
+     ☐ Death
+     ☐ Pick Up
+
+     NICE TO HAVE (إن أمكن):
+     ☐ Crouch
+     ☐ Interact
+     ☐ Take Damage
+
+   ☐ Download Format: FBX, With Skin, 30 FPS
+
+════════════════════════════════════════════════════════════════════════════
+
+🗻 البيئات والمناطق (ENVIRONMENTS):
+════════════════════════════════════════════════════════════════════════════
+
+PRIORITY: عالية جداً ⭐⭐⭐
+
+📍 منطقة 1: موقع الحطام (Crash Site)
+─────────────────────────────────────────
+
+☐ 1. المركبة المحطمة
+   Search: "crashed spaceship" أو "destroyed spacecraft"
+   Website: Sketchfab
+   Link: https://sketchfab.com/search?q=crashed+spaceship
+
+☐ 2. الصخور والتضاريس
+   Search: "rocky terrain" أو "alien rocks"
+   Website: Poly Haven
+   Link: https://polyhaven.com
+
+☐ 3. رسومات الأرض (Textures)
+   Search: "rocky terrain texture" أو "stone ground"
+   Website: Textures Haven
+   Link: https://texturehaven.com
+
+─────────────────────────────────────────
+
+📍 منطقة 2: الكهوف المضيئة (Glowing Caves)
+─────────────────────────────────────────
+
+☐ 1. بنية الكهف
+   Search: "cave system" أو "underground cavern"
+   Website: Sketchfab
+
+☐ 2. البلورات المضيئة
+   Search: "glowing crystal" أو "bioluminescent crystal"
+   Website: Sketchfab
+
+☐ 3. النباتات الغريبة
+   Search: "alien plant" أو "cave plant"
+   Website: Sketchfab
+
+─────────────────────────────────────────
+
+📍 منطقة 3: أطلال المدينة (Ancient Ruins)
+─────────────────────────────────────────
+
+☐ 1. المباني المهدمة
+   Search: "ruined building" أو "ancient ruins"
+   Website: Sketchfab
+
+☐ 2. الأعمدة والمعمار
+   Search: "ancient pillar" أو "stone column"
+   Website: Sketchfab
+
+☐ 3. الأجهزة القديمة
+   Search: "sci-fi terminal broken"
+   Website: Sketchfab
+
+─────────────────────────────────────────
+
+📍 منطقة 4: الصحراء الشاسعة (Desert Plains)
+─────────────────────────────────────────
+
+☐ 1. رسومات الصحراء
+   Search: "desert texture" أو "sand ground"
+   Website: Textures Haven
+
+☐ 2. تضاريس صحراوية (Models)
+   Search: "desert landscape" أو "sand dunes"
+   Website: Poly Haven
+
+════════════════════════════════════════════════════════════════════════════
+
+🚪 الـ PROPS التفاعلية (INTERACTIVE OBJECTS):
+════════════════════════════════════════════════════════════════════════════
+
+PRIORITY: متوسطة ⭐⭐
+
+☐ باب معدني
+   Search: "sliding door metal" أو "sci-fi door"
+   Website: Sketchfab
+
+☐ صندوق معدني
+   Search: "metal storage box" أو "sci-fi container"
+   Website: Sketchfab
+
+☐ لوحة التحكم
+   Search: "sci-fi control panel"
+   Website: Sketchfab
+
+☐ أرفف معادن
+   Search: "metal shelves modular"
+   Website: Sketchfab
+
+☐ درجات معادن
+   Search: "metal stairs modular"
+   Website: Sketchfab
+
+☐ أنابيب
+   Search: "pipe modular" أو "duct system"
+   Website: Sketchfab
+
+════════════════════════════════════════════════════════════════════════════
+
+👽 الأعداء والكائنات (ENEMIES & CREATURES):
+════════════════════════════════════════════════════════════════════════════
+
+PRIORITY: عالية ⭐⭐⭐
+
+☐ عدو 1 (صغير وسريع):
+   Search: "alien creature small" أو "sci-fi monster"
+   Website: Sketchfab
+   Link: https://sketchfab.com/search?q=alien+monster+small
+
+☐ عدو 2 (متوسط):
+   Search: "alien creature medium"
+   Website: Sketchfab
+
+☐ عدو 3 (كبير وقوي):
+   Search: "alien creature large" أو "monster big"
+   Website: Sketchfab
+
+☐ الزعيم (Boss):
+   Search: "alien boss" أو "final boss creature"
+   Website: Sketchfab
+
+════════════════════════════════════════════════════════════════════════════
+
+🎵 الموسيقى والأصوات (AUDIO):
+════════════════════════════════════════════════════════════════════════════
+
+PRIORITY: منخفضة في البدء ⭐
+
+🎼 موسيقى الخلفية:
+─────────────────────────────────────────
+
+☐ موسيقى الاستكشاف (Ambient)
+   Search: "ambient space exploration" أو "mysterious exploration"
+   Website: Incompetech
+   Link: https://incompetech.com/
+   Duration: 3-5 minutes
+
+☐ موسيقى القتال
+   Search: "action combat" أو "sci-fi battle"
+   Website: Incompetech أو YouTube Audio Library
+
+☐ موسيقى الألغاز
+   Search: "puzzle solving" أو "mystery music"
+   Website: Incompetech
+
+🔊 مؤثرات صوتية:
+─────────────────────────────────────────
+
+MUST HAVE (إلزامي):
+☐ Footsteps
+   Search: "footstep metal" أو "footstep rock"
+   Website: Freesound
+   Link: https://freesound.org/search/?q=footstep
+
+☐ Door Open/Close
+   Search: "door open sound" أو "sliding door"
+   Website: Zapsplat
+
+☐ Jump Sound
+   Search: "jump sound effect"
+   Website: Freesound
+
+SHOULD HAVE (مهم):
+☐ Pickup Sound
+   Search: "pickup item sound"
+   Website: Freesound
+
+☐ Footsteps على سطح مختلفة
+   Search: "footstep" أو "walking sound"
+   Website: Freesound
+
+☐ Weapon Shot / Laser
+   Search: "laser gun sound" أو "sci-fi weapon"
+   Website: Zapsplat
+
+════════════════════════════════════════════════════════════════════════════
+
+📥 أسهل الطريق للبدء السريع:
+════════════════════════════════════════════════════════════════════════════
+
+الأسبوع 1 (START HERE):
+  1. نموذج الشخصية من Sketchfab
+  2. رسوم الحركة من Mixamo (Idle, Walk, Run, Jump فقط)
+  3. تضاريس منطقة 1 من Sketchfab
+  4. موسيقى من Incompetech
+
+الأسبوع 2:
+  5. الأبواب والصناديق
+  6. أول عدو
+  7. مؤثرات صوتية أساسية
+
+الأسابيع 3-4:
+  8. المناطق الإضافية
+  9. المزيد من Props
+  10. الأعداء الإضافيين
+
+════════════════════════════════════════════════════════════════════════════
+
+⚡ نصائح البحث السريع:
+════════════════════════════════════════════════════════════════════════════
+
+1. على Sketchfab:
+   - الفلتر: License (Creative Commons) ✓
+   - الفلتر: Format (FBX) ✓
+   - رتّب: Most Downloaded أو Most Recent
+
+2. على Mixamo:
+   - تسجيل بـ Adobe ID (مجاني)
+   - اختيار "With Skin"
+   - تحميل بصيغة FBX
+
+3. على Freesound:
+   - الفلتر: License (Creative Commons) ✓
+   - الفلتر: Duration (< 10 seconds)
+   - اختيار WAV أو MP3
+
+4. عام:
+   - اقرأ التقييمات والتعليقات
+   - تحقق من جودة الصور المعاينة
+   - اختبر المعاينة الحية قبل التحميل
+
+════════════════════════════════════════════════════════════════════════════
+
+💾 بعد التنزيل:
+════════════════════════════════════════════════════════════════════════════
+
+1. ضع الملفات في المجلدات الصحيحة:
+   ☐ Models → Assets/Models/
+   ☐ Textures → Assets/Textures/
+   ☐ Animations → Assets/Animations/
+   ☐ Audio → Assets/Audio/
+
+2. تحقق من:
+   ☐ نسخة backup من الملفات الأصلية
+   ☐ الترخيص (احفظ ملف Credit)
+   ☐ الحجم المعقول (< 50MB لكل ملف)
+   ☐ التوافق مع Unity
+
+3. في Unity:
+   ☐ استيراد الملفات
+   ☐ تعديل Import Settings إذا لزم الأمر
+   ☐ اختبار في المشهد (Scene)
+
+════════════════════════════════════════════════════════════════════════════
+
+🎯 الهدف:
+════════════════════════════════════════════════════════════════════════════
+
+بعد أسبوع واحد يجب أن يكون لديك:
+  ✓ شخصية قابلة للتحريك
+  ✓ بيئة أولى قابلة للاستكشاف
+  ✓ موسيقى خلفية
+
+ثم يمكنك البدء بالبرمجة! 🚀
+
+════════════════════════════════════════════════════════════════════════════
+
+⚠️ تذكر دائماً:
+════════════════════════════════════════════════════════════════════════════
+
+✓ تحقق من الترخيص (Creative Commons)
+✓ اختبر المعاينة قبل التحميل
+✓ احفظ روابط التنزيل
+✓ نظّم الملفات بعناية
+✓ اقرأ عن كيفية استخدام كل Asset
+✓ استمتع بالعملية! 😊
+
+════════════════════════════════════════════════════════════════════════════
+
+آخر تحديث: 17 سبتمبر 2026
+الحالة: جاهز للبدء الفوري!
